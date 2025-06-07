@@ -1,0 +1,6 @@
+@JaPark_HostAddress = http://localhost:5213
+
+GET {{JaPark_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
